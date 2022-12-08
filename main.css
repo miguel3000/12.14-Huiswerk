@@ -1,0 +1,124 @@
+/* Header */
+#header {
+    background-color: rgb(9, 220, 150);
+    width: 100%;
+    height: 100px;
+}
+
+/* Footer */
+#footer {
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+}
+
+/*H1*/
+#h1 {
+    color: blue;
+}
+
+table {
+    width: 100%;
+}
+
+tr {
+    height: 180px;
+}
+
+/*Table01*/
+#table01 {
+    background-color: aquamarine;
+    width: 25%;
+}
+
+/*Table02*/
+#table02 {
+    background-color:;
+    width: 25%;
+}
+
+/*Table03*/
+#table03 {
+    background-color:azure;
+    width: 25%;
+}
+
+/*Table04*/
+#table04 {
+    background-color:;
+    width: 25%;
+}
+
+/*Table05*/
+#table05 {
+    background-color:beige;
+    width: 25%;
+}
+
+/*Table06*/
+#table06 {
+    background-color;
+    width: 25%;
+}
+
+/*Table07*/
+#table07 {
+    color: aliceblue;
+    background-color:rgb(67, 14, 117);
+    width: 25%;
+}
+
+/*Table08*/
+#table08 {
+    background-color:;
+    width: 25%;
+}
+
+/*Table09*/
+#table09 {
+    background-color:blueviolet;
+    width: 25%;
+}
+
+/*Table10*/
+#table10 {
+    background-color:;
+    width: 25%;
+}
+
+/*Table11*/
+#table11 {
+    background-color:rgb(159, 126, 189);
+    width: 25%;
+}
+
+/*Table12*/
+#table12 {
+    background-color:;
+    width: 25%;
+}
+
+/*Table13*/
+#table13 {
+    background-color:rgb(90, 86, 170);
+    width: 25%;
+}
+
+/*Table14*/
+#table14 {
+    background-color:;
+    width: 25%;
+}
+
+/*Table15*/
+#table15 {
+    color: aliceblue;
+    background-color:rgb(27, 2, 51);
+    width: 25%;
+}
+
+/*Table16*/
+#table16 {
+    background-color:;
+    width: 25%;
+}
