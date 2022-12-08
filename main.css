@@ -17,108 +17,109 @@
     color: blue;
 }
 
-table {
+table, tr, td  {
     width: 100%;
+   
 }
 
 tr {
     height: 180px;
 }
 
-/*Table01*/
-#table01 {
+/*cel_01*/
+#cel_01 {
     background-color: aquamarine;
     width: 25%;
 }
 
-/*Table02*/
-#table02 {
-    background-color:;
+/*cel_02*/
+#cel_02 {
+    background-color: green;
     width: 25%;
 }
 
-/*Table03*/
-#table03 {
+/*cel_03*/
+#cel_03 {
     background-color:azure;
     width: 25%;
 }
 
-/*Table04*/
-#table04 {
-    background-color:;
+/*cel_04*/
+#cel_04 {
+    background-color: blue;
     width: 25%;
 }
 
-/*Table05*/
-#table05 {
+/*cel_05*/
+#cel_05 {
     background-color:beige;
     width: 25%;
 }
 
-/*Table06*/
-#table06 {
-    background-color;
+/*cel_06*/
+#cel_06 {
+    background-color:purple;
     width: 25%;
 }
 
-/*Table07*/
-#table07 {
+/*cel_07*/
+#cel_07 {
     color: aliceblue;
     background-color:rgb(67, 14, 117);
     width: 25%;
 }
 
-/*Table08*/
-#table08 {
-    background-color:;
+/*cel_08*/
+#cel_08 {
+    background-color:yellow;
     width: 25%;
 }
 
-/*Table09*/
-#table09 {
+/*cel_09*/
+#cel_09 {
     background-color:blueviolet;
     width: 25%;
 }
 
-/*Table10*/
-#table10 {
-    background-color:;
+/*cel_10*/
+#cel_10 {
+    background-color:orange;
     width: 25%;
 }
 
-/*Table11*/
-#table11 {
+/*cel_11*/
+#cel_11 {
     background-color:rgb(159, 126, 189);
     width: 25%;
 }
 
-/*Table12*/
-#table12 {
-    background-color:;
+/*cel_12*/
+#cel_12 {
+    background-color:red;
     width: 25%;
 }
 
-/*Table13*/
-#table13 {
+/*cel_13*/
+#cel_13 {
     background-color:rgb(90, 86, 170);
     width: 25%;
 }
 
-/*Table14*/
-#table14 {
-    background-color:;
+/*cel_14*/
+#cel_14 {
+    background-color:turquoise;
     width: 25%;
 }
 
-/*Table15*/
-#table15 {
+/*cel_15*/
+#cel_15 {
     color: aliceblue;
     background-color:rgb(27, 2, 51);
     width: 25%;
 }
 
-/*Table16*/
-#table16 {
-    background-color:;
+/*cel_16*/
+#cel_16 {
+    background-color: greenyellow;
     width: 25%;
 }
